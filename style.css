@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(white ,blue) ;
+}
+#menu{
+    height: 10vh;
+}
+#kontent{
+    height: 80vh;
+}
+#footer{
+    height: 10vh;
+}
